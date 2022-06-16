@@ -41,7 +41,7 @@ Using flutter and firebase and provider. A food order system application in the 
 
 ## Feedback
 
-If you have any feedback, please reach out to me at mustafablutt@gmail.com
+If you have any feedback, please reach out to me at bluttmustafa@gmail.com
 
 
 ## Lessons Learned
