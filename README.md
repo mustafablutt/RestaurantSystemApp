@@ -12,9 +12,9 @@ Using flutter and firebase and provider. A food order system application in the 
 
 ## Authors
 
+
 - [Mustafa Bulut](https://github.com/mustafablutt)
 - [Cem Yılmaz](https://github.com/CemTitor)
-
 
 
 
@@ -37,11 +37,11 @@ Using flutter and firebase and provider. A food order system application in the 
 
 
 
-![Alt text](https://github.com/mustafablutt/Restaurant-System/blob/master/images/resto.gif)
+![Alt text](https://github.com/CemTitor/Restaurant-System/blob/master/images/resto.gif)
 
 ## Feedback
 
-If you have any feedback, please reach out to me at cemyilmaz463@gmail.com
+If you have any feedback, please reach out to me at mustafablutt@gmail.com
 
 
 ## Lessons Learned
@@ -55,7 +55,7 @@ I have more knowledge of firebase queries now.
 Clone the project
 
 ```bash
-  git clone https://github.com/mustafablutt/RestaurantSystemApp
+  git clone https://github.com/mustafablutt/Restaurant-System
 ```
 
 Go to the project directory
